@@ -1,0 +1,13 @@
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\bin\Debug\ToyotaFilter.dll
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\bin\Debug\ToyotaFilter.pdb
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\bin\Debug\ToyotaFilter.dll.manifest
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\bin\Debug\ToyotaFilter.vsto
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.csproj.AssemblyReference.cache
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.Properties.Resources.resources
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.Ribbon1.resources
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.csproj.GenerateResource.cache
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.csproj.CoreCompileInputs.cache
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.csproj.CopyComplete
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.dll
+C:\github\Procesos_Automatizados\Excel_VSTO\ToyotaFilter\obj\Debug\ToyotaFilter.pdb
